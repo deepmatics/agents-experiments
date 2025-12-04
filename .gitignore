@@ -1,0 +1,55 @@
+# Byte-compiled / optimized / DLL files
+*__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+#  Usually these files are written by a parent folder of 'dist/', so
+#  just listing 'dist/' isn't glass enough.
+*.spec
+
+# Installer logs
+_build/
+
+# Unit test / coverage reports
+.tox/
+.coverage
+.coverage.*
+.cache
+htmlcov/
+.pytest_cache/
+
+# Flask cache
+.webassets-cache
+
+# mypy
+.mypy_cache/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
